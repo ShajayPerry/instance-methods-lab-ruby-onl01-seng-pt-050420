@@ -3,3 +3,9 @@ class Person  # starts defining our Person class
     puts "Hello World!"   
   end   
 end  
+
+class Person  # starts defining our Person class
+  def walk  # start defining our #talk method
+    puts ""   
+  end   
+end 
