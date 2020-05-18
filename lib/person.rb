@@ -6,6 +6,6 @@ end
 
 class Person  # starts defining our Person class
   def walk  # start defining our #talk method
-    puts ""   
+    puts "he Person is walking"   
   end   
 end 
